@@ -1,4 +1,4 @@
-chinwag
+Chinwag
 =======
 
-An XMPP chat client, done well ffs
+A modular plugin-based XMPP chat client.
