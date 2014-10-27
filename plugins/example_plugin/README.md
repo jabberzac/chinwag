@@ -1,0 +1,1 @@
+This will be an example plugin one day
