@@ -8,7 +8,7 @@
 # own Buildfile with settings specific to each.
 
 # General configuration.
-config :all, :required => :sproutcore
+config :all, :required => [:sproutcore, :chinwag_lib]
 
 # Development (debug) mode configuration.
 mode :debug do

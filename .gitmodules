@@ -1,0 +1,3 @@
+[submodule "apps/chinwag/lib/strophejs"]
+	path = apps/chinwag/lib/strophejs
+	url = https://github.com/strophe/strophejs.git
