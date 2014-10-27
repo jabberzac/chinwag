@@ -11,7 +11,7 @@ Chinwag is built on Sproutcore. Easiest way to get it is by using [Gem](https://
 
 `gem install sproutcore` (This takes a while, go get a coffee.)
 
-Check out the project using `git clone --recursive git@github.com:jabberzac/chinwag.git` (to check out submodules as well).
+Check out the project using `git clone --recursive https://github.com/jabberzac/chinwag.git` (to check out submodules as well).
 
 Once that's done, navigate to the root directory of the project and use `sproutcore server`. The server will start on port 4020.
 
