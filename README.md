@@ -31,3 +31,6 @@ Check out the project using `git clone --recursive https://github.com/jabberzac/
 
 Once that's done, navigate to the root directory of the project and use `sproutcore server`. The server will start on port 4020.
 
+
+
+![benco](http://i.imgur.com/m5qd0Il.png)
